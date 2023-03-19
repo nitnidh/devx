@@ -1,2 +1,2 @@
 # devx
-Next generation developer experience - NIDHI
+Next generation developer experience with GPT powered Github Copilot
