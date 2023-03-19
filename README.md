@@ -12,10 +12,10 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
 
 ## Run locally
 - Clone this repo in your local
-- Open Terminal/Command Prompt,  go to "devx" directory and run below commands
+- Open Terminal/Command Prompt, go to "devx" directory and run below commands
 ```bash
   npm install
   npm run dev
 ```
-- Open browser http://localhost:3000 ,it should look like below
+- Open browser http://localhost:3000, it should look like below
 ![localhost](/screenshots/localhost.png?raw=true "Running locally")
