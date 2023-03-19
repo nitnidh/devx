@@ -1,7 +1,7 @@
 
 # DevX
 
-Next generation developer experience with GPT powered [GitHub Copilot](https://github.com/features/copilot)
+Next generation developer experience with GPT powered [GitHub Copilot](https://github.com/features/copilot). Below example demonstrates how we can easily implement a new feature in a NextJs app and containerize - in few minutes.
 
 ## Installation
 - Install [NodeJs](https://nodejs.org/)
@@ -23,3 +23,11 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
 ## Implement a new feature
 Adding a react component for random quote generator.
 [![New feature - random quote generator](/screenshots/video1.png?raw=true)](https://www.youtube.com/watch?v=vO8QGyhy9yU "New feature - random quote generator")
+
+## Containerizing dev environment
+Adding Dockerfile to build image and run in Docker Desktop.
+[![Containerizing app](/screenshots/video1.png?raw=true)](https://www.youtube.com/watch?v=vO8QGyhy9yU "Containerizing app")
+
+## Conclusion
+[GitHub Copilot](https://github.com/features/copilot) not only helps writing quality code following industry best practices, but also guides to modernize application, reviewing code, optimizing cost and many more.
+
