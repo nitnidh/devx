@@ -5,6 +5,7 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
 
 ## Installation
 - Install [NodeJs](https://nodejs.org/)
+- Install [Git](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
 - Install [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - Install [Visual Studio Code](https://code.visualstudio.com)
     - [Setup GitHub Copilot with VS Code](https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-visual-studio-code)
@@ -16,6 +17,5 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
   npm install
   npm run dev
 ```
-- Open browser http://localhost:3000
-It should look like below
+- Open browser http://localhost:3000 ,it should look like below
 ![localhost](/screenshots/localhost.png?raw=true "Running locally")
