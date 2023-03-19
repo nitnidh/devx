@@ -24,10 +24,10 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
 Adding a react component for random quote generator.
 [![New feature - random quote generator](/screenshots/video1.png?raw=true)](https://www.youtube.com/watch?v=vO8QGyhy9yU "New feature - random quote generator")
 
-## Containerizing dev environment
+## Containerising dev environment
 Adding Dockerfile to build image and run in Docker Desktop.
-[![Containerizing app](/screenshots/video1.png?raw=true)](https://www.youtube.com/watch?v=vO8QGyhy9yU "Containerizing app")
+[![Containerising app](/screenshots/video1.png?raw=true)](https://www.youtube.com/watch?v=GOBJqqcQ_hI "Containerising app")
 
 ## Conclusion
-[GitHub Copilot](https://github.com/features/copilot) not only helps writing quality code following industry best practices, but also guides to modernize application, reviewing code, optimizing cost and many more.
+[GitHub Copilot](https://github.com/features/copilot) not only helps writing quality code following industry best practices, but also guides to modernize application, reviewing code, optimizing cost and many more thing.
 
