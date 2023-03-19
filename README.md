@@ -17,3 +17,5 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
   npm run dev
 ```
 - Open browser http://localhost:3000
+It should look like below
+![localhost](/screenshots/localhost.png?raw=true "Running locally")
