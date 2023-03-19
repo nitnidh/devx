@@ -19,3 +19,7 @@ Next generation developer experience with GPT powered [GitHub Copilot](https://g
 ```
 - Open browser http://localhost:3000, it should look like below
 ![localhost](/screenshots/localhost.png?raw=true "Running locally")
+
+## Implement a new feature
+Adding a react component for random quote generator.
+[![New feature - random quote generator](/screenshots/video1.png?raw=true)](https://www.youtube.com/watch?v=vO8QGyhy9yU "New feature - random quote generator")
